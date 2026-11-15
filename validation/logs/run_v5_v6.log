@@ -1,0 +1,16 @@
+{'circuit': 'Toffoli (in 110)', 'preset': 'reference', 'duration_ns': 232.0, 'pulses': 3, 'ideal': 1.0, 'noisy': 0.9633333333333334, 'leakage': 0.020000000000000004}
+{'circuit': 'Toffoli (in 110)', 'preset': 'improved', 'duration_ns': 232.0, 'pulses': 3, 'ideal': 1.0, 'noisy': 0.98, 'leakage': 0.013333333333333336}
+{'circuit': 'Toffoli (in 110)', 'preset': 'ibm_like', 'duration_ns': 232.0, 'pulses': 3, 'ideal': 1.0, 'noisy': 0.9833333333333332, 'leakage': 0.01}
+{'circuit': 'C3NOT', 'preset': 'reference', 'duration_ns': 592.0, 'pulses': 5, 'ideal': 1.0, 'noisy': 0.88, 'leakage': 0.06}
+{'circuit': 'C3NOT', 'preset': 'improved', 'duration_ns': 592.0, 'pulses': 5, 'ideal': 1.0, 'noisy': 0.9366666666666664, 'leakage': 0.03}
+{'circuit': 'C3NOT', 'preset': 'ibm_like', 'duration_ns': 592.0, 'pulses': 5, 'ideal': 1.0, 'noisy': 0.9433333333333331, 'leakage': 0.03}
+{'circuit': 'C4NOT', 'preset': 'reference', 'duration_ns': 952.0, 'pulses': 7, 'ideal': 1.0, 'noisy': 0.83, 'leakage': 0.09333333333333332}
+{'circuit': 'C4NOT', 'preset': 'improved', 'duration_ns': 952.0, 'pulses': 7, 'ideal': 1.0, 'noisy': 0.9199999999999998, 'leakage': 0.05333333333333332}
+{'circuit': 'C4NOT', 'preset': 'ibm_like', 'duration_ns': 952.0, 'pulses': 7, 'ideal': 1.0, 'noisy': 0.93, 'leakage': 0.043333333333333335}
+{'circuit': 'C5NOT', 'preset': 'reference', 'duration_ns': 1312.0, 'pulses': 9, 'ideal': 1.0, 'noisy': 0.6166666666666667, 'leakage': 0.25333333333333335}
+{'circuit': 'C5NOT', 'preset': 'improved', 'duration_ns': 1312.0, 'pulses': 9, 'ideal': 1.0, 'noisy': 0.8099999999999999, 'leakage': 0.10999999999999997}
+{'circuit': 'C5NOT', 'preset': 'ibm_like', 'duration_ns': 1312.0, 'pulses': 9, 'ideal': 1.0, 'noisy': 0.8466666666666667, 'leakage': 0.08333333333333334}
+{'circuit': 'Grover3 m=5', 'preset': 'reference', 'duration_ns': 1216.0, 'pulses': 12, 'ideal': 0.9453124999999989, 'noisy': 0.8030070578066055, 'leakage': 0.05532388583747013}
+{'circuit': 'Grover3 m=5', 'preset': 'improved', 'duration_ns': 1216.0, 'pulses': 12, 'ideal': 0.9453124999999989, 'noisy': 0.8607618758727722, 'leakage': 0.04589060723610699}
+{'circuit': 'Grover3 m=5', 'preset': 'ibm_like', 'duration_ns': 1216.0, 'pulses': 12, 'ideal': 0.9453124999999989, 'noisy': 0.8700286786684993, 'leakage': 0.04115406106336831}
+done in 21 s

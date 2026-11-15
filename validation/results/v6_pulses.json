@@ -1,0 +1,47 @@
+[
+ {
+  "circuit": "Toffoli (in 110)",
+  "schedule_ns": 232.0,
+  "pulse_end_ns": 232.0,
+  "channels": 10,
+  "play": 13,
+  "frame": 0,
+  "qua_syntax_ok": true
+ },
+ {
+  "circuit": "C3NOT",
+  "schedule_ns": 592.0,
+  "pulse_end_ns": 592.0,
+  "channels": 14,
+  "play": 22,
+  "frame": 0,
+  "qua_syntax_ok": true
+ },
+ {
+  "circuit": "C4NOT",
+  "schedule_ns": 952.0,
+  "pulse_end_ns": 952.0,
+  "channels": 18,
+  "play": 31,
+  "frame": 0,
+  "qua_syntax_ok": true
+ },
+ {
+  "circuit": "C5NOT",
+  "schedule_ns": 1312.0,
+  "pulse_end_ns": 1312.0,
+  "channels": 22,
+  "play": 40,
+  "frame": 0,
+  "qua_syntax_ok": true
+ },
+ {
+  "circuit": "Grover3 m=5",
+  "schedule_ns": 1216.0,
+  "pulse_end_ns": 1216.0,
+  "channels": 10,
+  "play": 83,
+  "frame": 42,
+  "qua_syntax_ok": true
+ }
+]

@@ -1,0 +1,6 @@
+circuit,schedule_ns,pulse_end_ns,channels,play,frame,qua_syntax_ok
+Toffoli (in 110),232.0,232.0,10,13,0,True
+C3NOT,592.0,592.0,14,22,0,True
+C4NOT,952.0,952.0,18,31,0,True
+C5NOT,1312.0,1312.0,22,40,0,True
+Grover3 m=5,1216.0,1216.0,10,83,42,True
