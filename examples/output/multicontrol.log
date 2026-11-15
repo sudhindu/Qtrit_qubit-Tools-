@@ -1,0 +1,13 @@
+gate   k  pulses  time(ns)    max_err
+mcx    2       3       200    0.0e+00
+mcry   2       4       324    5.2e-16
+mcrx   2       4       324    4.4e-16
+mcx    3       5       560    3.3e-16
+mcry   3       6       684    4.7e-16
+mcrx   3       6       684    4.2e-16
+mcx    4       7       920    3.6e-15
+mcry   4       8      1044    2.0e-15
+mcrx   4       8      1044    2.7e-15
+mcx    5       9      1280    8.9e-16
+mcry   5      10      1404    1.8e-15
+mcrx   5      10      1404    2.3e-15
