@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qtflow"
+version = "0.1.0"
+description = "Lab-version tool flow for transmon qubit-qutrit circuits: Qiskit-like circuits, IBM native gates plus level-selective qutrit gates, heavy-hex routing, noisy qutrit simulation and pulse/QUA-style export."
+readme = "README.md"
+license = {text = "Apache-2.0"}
+authors = [{name = "The qtflow authors (anonymous for review)"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "networkx>=3.0", "matplotlib>=3.7", "qiskit>=1.2"]
+classifiers = ["License :: OSI Approved :: Apache Software License", "Programming Language :: Python :: 3",
+               "Topic :: Scientific/Engineering :: Physics"]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[tool.setuptools]
+packages = ["qtflow"]
+
+[tool.setuptools.package-data]
+qtflow = ["data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
